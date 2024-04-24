@@ -1,0 +1,1 @@
+export const BgDrops="https://media.rnztools.nz/rnz/image/upload/s--rY10huB6--/ar_16:10,c_fill,f_auto,g_auto,q_auto,w_1050/v1683260144/4L9H5IJ_101034526_m_normal_none_jpg"
